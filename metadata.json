@@ -1,0 +1,6 @@
+{
+  "name": "HomeFind - Real Estate Marketplace",
+  "description": "Find your dream home with HomeFind. Discover, buy, or rent luxury duplexes, modern apartments, and verified properties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
